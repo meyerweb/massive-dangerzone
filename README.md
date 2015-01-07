@@ -7,4 +7,4 @@ ALL CONTENT IN THIS REPOSITORY (except this readme) IS COPYRIGHT SQUAD, the make
 
 ### Massive Dangerzone?
 
-The repository name is what GitHub suggested as a default, and it was just too perfect a coincidence to pass up.
+The repository name is what GitHub suggested as a default, and it was just too perfect a fit to pass up.
