@@ -1,0 +1,68 @@
+In this tutorial Wernher von Kerman will walk you through the Kerbal Scientific Method, you will learn how experimentation works and why it's so cool!
+
+==
+
+Science
+
+Hello and welcome to today's lecture on the Kerbal Scientific Method, I am Wernher von Kerbal, scientist extraordinaire.  This tutorial doesn't really require any previous knowledge, but in order to gather science points you will have to acquaint yourself with almost every aspect of the game, so you should do them all at some point.
+We are now at the Kerbal Space Center, I'll give you a quick tour, you can hover the mouse over any building to see it's name in the bar at the bottom of the screen.
+
+--
+
+Kerbal Space Center
+
+The large building on the top left closest to the runway is the Space Plane Hangar, here you can build and fly Spaceplanes.  The large cubelike structure in the middle is the Vehicle Assembly Building - this is where you will be constructing most of your Spacecraft.  It is connected to the launchpad located at the upper right, this is where you can put your creations to test and start new missions, however the Launchpad will only allow vertical launches.  Crew management and hiring applications will take place in the Astronaut Complex, which is located next to the flagpole on the left.  The facility with the three parabolic antennas is the Tracking Station, through which you can manage, access and observe all active missions.
+
+--
+
+Research and Development Complex
+
+The large complex at the bottom of the space center is the Research and Development Complex, that main focus of this tutorial.  This is where you will make use of the science points your missions award you, and you will gain more parts.  Go ahead and click it to see it in action.
+
+--
+
+Inside the RnD Complex
+
+Very good!  What you see in the middle of the graph paper is the Tech Tree.  It shows how far your research has taken Kerbal technology.  You don't have much to show right now, because you're not a world class scientist like myself.  At least not yet.  But I trust you have the potential to achieve great things.
+
+--
+
+Unlock a node
+
+In a typical career game you will start with a few parts and have to earn the rest.  For educations sake I've gone ahead and given some data to your scientists, so you should have enough Science to unlock the next node.  The amount of Science you have is shown on the top right.  Go for it, select the grayed out node and click the blue Research button on the right pane.
+
+--
+
+Node Unlocked
+
+Hooray, that's how research is done.  You should have noticed new nodes to be researched spawned from the one you just researched, now you are presented with choices.  Don't know what to pick next?  Don't worry, you can select a node at any time and useful information will be displayed in the right pane.  For example what parts it contains, and how much Science is needed to research it.
+
+--
+
+Where does it come from?
+
+Now, you're probably thinking to yourself "This is all nice and jolly, but how do I get more science?".  You can get more in three ways: Experiments, Situations, and Biomes.  Almost anything you'll do will be an experiment, be it Kerbals writing reports during EVAs or observing Mystery Goo.  All of these actions can be accessed through the various right click context menus.  Just keep in mind that your crew needs to survive the mission for you go get the Science.
+
+--
+
+Situations and Biomes
+
+Situations, as the name implies, is about getting yourself in particular situations.  This could be landing, orbiting, splashing down.  Or anything, really.  Biomes are surface samples Kerbals can collect on EVAs during their mission.  To keep track of your progress, you can access the Science Archives by clicking the yellow button on the upper left.  Well, what are you waiting for?  Click it!
+
+--
+
+Science Archives
+
+That's it!  In the archives you can see what experiments, situations and biomes you have already collected.  This is important, because you see, if you repeat the same experiment multiple times it's scientific value degrades, because you're not learning anything new, mind you, as a result you will not get as much science as you did the first time, until you get practically nothing.
+
+--
+
+Science Archives
+
+Another outstanding feature of the archives is that you can check what celestial bodies you have already visited and conducted experiments in.  You can do so by clicking the icon corresponding to the body that you're interested in.  For now, you will only see the records of the research I gave you, but once you start doing your own science, you will be able to check it here.
+
+--
+
+Conclusion
+
+Well, this is all I can say about science.  This is a theoretical class, and I'm sure it will all make a lot more sense when you go out and try it yourself.  Remember that science requires curiosity, so go out and experiment.  And don't be discouraged if a mission doesn't go quite as planned, if you learn something new, it's not a complete failure.  If you're still feeling lost, feel free to try the other tutorials.  I must continue my own research now.  I'm looking forward to your accomplishments.  Show yourself out by using the red button on the upper right when you're done.
