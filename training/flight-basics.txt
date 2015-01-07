@@ -4,13 +4,13 @@ Learn the basics of flying a spacecraft in KSP. In this tutorial, flight instruc
 
 Welcome
 
-Welcome to the Kerbal Space Center Launch Facility!  I'm Gene Kerman and I will teach you the basics of piloting a spacecraft.  I trust you already checked the Basic Construction Tutorial, if not I recommend you do so before going through this one.  If you're ready to go, press Next.
+Welcome to the Kerbal Space Center Launch Facility!  I'm Gene Kerman and I will teach you the basics of piloting a spacecraft.  I trust you already checked the Basic Construction Tutorial.  If not, I recommend you do so before going through this one.  If you're ready to go, press Next.
 
 --
 
 Basic Flight Controls
 
-Flying a spacecraft is all about being in control of a generally very chaotic situation.  As a Pilot, your main flight controls will affect the pitch, roll and yaw of the ship.  Let's look at those first.  (All the other controls will be locked until they're needed or this tutorial is closed)
+Flying a spacecraft is all about being in control of a generally very chaotic situation.  As a Pilot, your main flight controls will affect the pitch, roll, and yaw of the ship.  Let's look at those first.  (All the other controls will be locked until they're needed or this tutorial is closed.)
 
 --
 
@@ -27,10 +27,10 @@ Try it now, and notice the pitch indicator on the lower-left side as it moves.
 
 Basic Flight Controls: Yaw
 
-Yaw is the rotation of the ship around it's vertical axis.  It is the side-to-side motion of the ship's nose.  A positive Yaw angle means the ship's nose is turned to the right, while a negative angle means it's turned to the left.  These are the keys that control yaw:
+Yaw is the rotation of the ship around its vertical axis.  It is the side-to-side motion of the ship's nose.  A positive yaw angle means the ship's nose is turned to the right, while a negative angle means it's turned to the left.  These are the keys that control yaw:
 
 [A]: Yaw left
-[D]: Yaw Right.
+[D]: Yaw right
 
 Try it now.
 
@@ -38,18 +38,18 @@ Try it now.
 
 Basic Flight Controls: Roll
 
-Roll is the rotation of the ship around its longitudinal, or front-to-back axis.  It is the motion of leaning, or banking, to the left or right.  The roll of your ship is controlled through these keys:
+Roll is the rotation of the ship around its longitudinal, or front-to-back, axis.  It is the motion of leaning, or banking, to the left or right.  The roll of your ship is controlled through these keys:
 
 [Q]: Roll left
-[E]: Roll Right
+[E]: Roll right
 
 Try it now.
 
 --
 
-Pitch, Yaw and Roll
+Pitch, Yaw, and Roll
 
-By controlling Pitch, Yaw and Roll together, you can keep the ship in a controlled, level flight.
+By controlling Pitch, Yaw, and Roll together, you can keep the ship in a controlled, level flight.
 
 Next, let's look at another basic flight control.
 
@@ -58,14 +58,15 @@ Next, let's look at another basic flight control.
 Throttle
 
 The Throttle control affects the output power of the ship's engines.  More throttle means more thrust, and therefore, more speed and lifting power.
-Note that Throttle will only affect engines that CAN be throttled, like Liquid Engines.  Solid Boosters don't have any throttle control, and will burn at top capacity until their fuel runs out.
 
-Holding the ship at full throttle over a long period of time can cause the engines to overheat, and will eventually explode if that heat isn't managed.
+Note that Throttle will only affect engines that CAN be throttled, like Liquid Fuel Engines.  Solid Boosters don't have any throttle control, and will burn at top capacity until their fuel runs out.
+
+Holding the ship at full throttle over a long period of time can cause the engines to overheat, and they will eventually explode if that heat isn't managed.
 
 Throttle is controlled by the following keys:
 
-[LeftShift]: Throttle Up
-[LeftControl]: Throttle Down
+[LeftShift]: Throttle up
+[LeftControl]: Throttle down
 
 Give it a try now.
 
@@ -73,8 +74,10 @@ Give it a try now.
 
 Basic Flight Controls
 
-Throttle, plus Pitch, Roll and Yaw are the main controls you'll need to master for a successful, crash-free flight.
+Throttle, Pitch, Roll, and Yaw are the main controls you'll need to master for a successful, crash-free flight.
+
 Remember that all of these controls have a limited amount of effectiveness, so bigger, heavier ships will probably respond much more sluggishly to the controls than a little small one.
+
 It's also good to keep in mind that as stages are separated from the ship, it will become lighter and therefore easier to control.
 
 Next, let's look at the rest of the Flight Controls.
@@ -83,13 +86,13 @@ Next, let's look at the rest of the Flight Controls.
 
 Flight Controls: S.A.S.
 
-S.A.S stands for Stability Augmentation System, although Kerbal astronauts usually refer to it as Sickness Avoidance Scheme.
+S.A.S. stands for Stability Augmentation System, although Kerbal astronauts usually refer to it as Sickness Avoidance Scheme.
 
 Whatever it stands for, what it does is try to stop the ship from spinning around, using the computer-controlled "Auto-Torque Drive Compensator™" technology to counteract the rotation of the ship.
 
 Keep in mind that to use SAS properly, your ship needs to be fitted with an SAS or ASAS module.  Otherwise, SAS won't have any effect.
 
-SAS can be activated momentarily by holding down the [F] key, or toggled by pressing the [T] Key.
+SAS can be activated momentarily by holding down the [F] key, or toggled by pressing the [T] key.
 
 You can give it a try now, although it probably won't do much until we are actually flying.
 
@@ -99,13 +102,13 @@ Flight Controls: RCS
 
 R.C.S. stands for Reaction Control System.  It consists of small thrusters that help control the ship's orientation and translation.
 
-The R.C.S. can be activated by pressing the [R] key.
+The RCS can be activated by pressing the [R] key.
 
-Give it a try, and notice the RCS Led turns on when it's activated.
+Give it a try, and notice the RCS LED turns on when it's activated.
 
-Mind that for the RCS to do anything, your ship must have RCS thrusters and Monopropellant tanks installed.
+Remember that for the RCS to do anything, your ship must have RCS thrusters and Monopropellant tanks installed.
 
-R.C.S is particularly useful when you're out in space, as aerodynamic control surfaces tend to not work very well outside the atmosphere.
+RCS is particularly useful when you're out in space, as aerodynamic control surfaces tend to not work very well outside the atmosphere.
 
 --
 
@@ -117,25 +120,23 @@ From launch to the final deployment of the descent parachutes, you can control t
 
 [Space]: Launch / Activate Next Stage
 
-Notice the Stage Indicator on the lower-left corner.  It shows the currently active stage.  Since we haven't launched yet, it's showing the first stage to be activated.  I have your staging controls locked for now, so the LED next to the indicator is glowing purple.  We're almost done here, you'll be launching in no time.
+Notice the Stage Indicator in the lower-left corner.  It shows the currently active stage.  Since we haven't launched yet, it's showing the first stage to be activated.  I have your staging controls locked for now, so the LED next to the indicator is glowing purple.  We're almost done here; you'll be launching in no time.
 
 --
 
 The NavBall
 
-An important part of flying is knowing how your ship is orientated and where it is going.  A good pilot is always aware of the ship's Attitude, as it's called, and its Velocity Vector.
+An important part of flying is knowing how your ship is oriented and where it is going.  A good pilot is always aware of the ship's Attitude, as it's called, and its Velocity Vector.
 
-The big round instrument on the lower center of the screen is called the Nav Ball.  This device sums up most of the critical information needed for proper, death-free flight.
+The big round instrument in the lower center of the screen is called the NavBall.  This device sums up most of the critical information needed for proper, death-free flight.
 
-Here, you see the ship's nose, in relation to the horizon, as well as its heading (compass bearing) and speed.
-
-You also get several icons that indicate things like your current velocity, but we'll have a look at those later.
+In the NavBall, you see the ship's nose in relation to the horizon, as well as its heading (compass bearing) and speed.  You also get several icons that indicate things like your current velocity, but we'll have a look at those later.
 
 --
 
 Flight Instruments
 
-On the upper part of your screen you have your Altimeter, Vertical Speed and Atmosphere gauges.
+In the upper part of your screen you have your Altimeter, Vertical Speed, and Atmosphere gauges.
 
 The Altimeter will show the distance to the planet's surface at Sea Level.  This means the actual surface may be higher up, so watch out for the ground when landing.
 
@@ -152,17 +153,18 @@ These guys on the lower-right corner are the Crew of the ship.
 It's generally a good idea to try and keep them alive throughout the flight.
 
 They're not exactly expert astronauts, or even much good at it.
+
 Actually they're none too bright, for that matter, so don't rely on them to be able to fly the ship without your help.
 
 --
 
 Ready to Launch
 
-Ok, but enough talk, i'll unlock all the flight controls and you'll be clear to launch.  Actually all the controls except for one, let's make it interesting, you will not be able to use the SAS control, try to keep the ship steady yourself.
+OK, enough talk.  I'll unlock all the flight controls and you'll be clear to launch.  Actually, all the controls except for one.  To make it interesting, you will not be able to use the SAS control - try to keep the ship steady yourself.
 
 At any time you may press [Esc] to pause the game.  In the Pause Menu you can restart the flight, or end this Tutorial and return to the Main Menu.
 
-For now set you throttle to the max and hit [Space] when ready to launch!
+For now, set your throttle to the max and hit [Space] when ready to launch!
 
 Good Luck!
 
@@ -170,17 +172,18 @@ Good Luck!
 
 Liftoff!
 
-And up you go!  The ship you're currently piloting hardly has enough fuel to make it very far, so just try to keep it steady until you run out of fuel.  While you're at it you may right click the different parts of the ships to see that actions that you can trigger with each, some of these will be important when you're gathering science.
+And up you go!  The ship you're currently piloting hardly has enough fuel to make it very far, so just try to keep it steady until you run out of fuel.  While you're at it, you may right click the different parts of the ships to see what actions you can trigger for each.  Some of these will be important when you're gathering science.
 
 --
 
 Liftoff!
 
-Already?  Wow, that was quick.  Okay, first of all don't panic, you're still going up because of the momentum, but you'll eventuall start going down and crash into the ground.  Don't panic, just take a deep breath...and then panic.  Just kidding, luckily the ship is equipped with a parachute, never leave home without a parachute, now would be a good time to activate it, press [Space] to separate the command pod from the rocket and [Space] again to activate the parachute, it will help you delicately land and...you know, remain alive and all that.  Also take a look at the staging UI, see what happens when you activate stages.
+Already?  Wow, that was quick.  Okay, first of all don't panic, you're still going up because of the momentum, but you'll eventually start going down and crash into the ground.  Don't panic, just take a deep breath...and then panic.  Just kidding, luckily the ship is equipped with a parachute, never leave home without a parachute.  Now would be a good time to activate it.  Press [Space] to separate the command pod from the rocket and [Space] again to activate the parachute.  It will help you delicately land and...you know, remain alive and all that.  Also take a look at the staging UI, see what happens as you activate stages.
 
 --
 
 Landed
 
-Well done!  When you're landed or splashed in Kerbin you can point the mouse just above the altimeter click the recover to ask to be picked up.  I also unlocked the crew hatch, so if you feel like going out for a walk or swim click the EVA (Extra Vehicular Activity) button that will pop up when you mouse over the portrait of the Kerbal you want to take out.  You should do it just for fun, or to collect a surface sample.
+Well done!  When you're landed or splashed down on Kerbin, you can point the mouse just above the altimeter and click Recover Vessel to ask to be picked up.  I also unlocked the crew hatch, so if you feel like going out for a walk or swim, click the EVA (Extra Vehicular Activity) button that will pop up when you mouse over the portrait of the Kerbal you want to take out.  You should do it just for fun, or to collect a surface sample.
+
 This concludes the today's lesson, bye.

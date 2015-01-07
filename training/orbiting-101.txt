@@ -4,7 +4,7 @@ This training scenario covers the basics of flying a spacecraft in orbit: Essent
 
 Orbiting 101
 
-Welcome to the Orbiting101 training program!  I'm Gene Kerman, and I'm going to teach you the basics of orbiting.
+Welcome to the Orbiting 101 training program!  I'm Gene Kerman, and I'm going to teach you the basics of orbiting.
 
 I assume you've already done the basic flight tutorials, and are now ready to learn how to get around in space.  If you haven't done them, well, I hope you know what you're doing.
 
@@ -14,9 +14,9 @@ Let's get started.
 
 Orbiting 101 - Basics
 
-Orbiting is really nothing more than free-falling.  THe only thins is that as you fall, you're moving so fast forward, you actually miss the ground.  Because up here there is no atmosphere to slow you down, you will continue to free-fall endlessly around the planet, without having to use your engines.
+Orbiting is really nothing more than free-falling.  The only thing is that as you fall, you're moving so fast forward, you actually miss the ground.  Because up here there is no atmosphere to slow you down, you will continue to free-fall endlessly around the planet, without having to use your engines.
 
-We are currently on a low, almost circular orbit around Kerbin.  To get a better view of your situation, press the M key to go into the Map View.
+We are currently on a low, almost circular orbit around Kerbin.  To get a better view of your situation, press the [M] key to go into the Map View.
 
 --
 
@@ -26,17 +26,17 @@ This is the Map View.  Here you can see your ship's position and its current tra
 
 Use the mouse to look around, to see your orbit from various angles.  Also, hovering over the icons on the map will display more information about them.
 
-Close the map when you're ready (press the M key again), so we can proceed.
+Close the map when you're ready (press the [M] key again), so we can proceed.
 
 --
 
 Orbiting 101 - Attitude and SAS
 
-Good, let's get practical now.  I trust you already know your basic spacecraft controls...  Up here, they're very much the same, only that the lack of an atmosphere makes the ship behave quite a bit differently.  Because there is no drag slowing you down, for every input you apply, you'll have to apply an opposite one to come to a stop again.
+Good, let's get practical now.  I trust you already know your basic spacecraft controls.  Up here, they're very much the same, only the lack of an atmosphere makes the ship behave quite a bit differently.  Because there is no drag slowing you down, for every input you apply, you'll have to apply an opposite one to come to a stop again.
 
 I'm going to remotely nudge your attitude controls a little.  Try to get the ship back under control afterwards.
 
-If you find yourself totally out of control, hit T to toggle the SAS on.
+If you find yourself totally out of control, hit [T] to toggle the SAS on.
 
 Are you ready?
 
@@ -44,13 +44,13 @@ Are you ready?
 
 Orbiting 101 - Attitude and SAS
 
-Ok, here we go...
+OK, here we go...
 
 --
 
 Orbiting 101 - Attitude and SAS
 
-There!  You're in control now.  Stop rotation using the Pitch, Yaw and Roll controls.
+There!  You're in control now.  Stop rotation using the Pitch, Yaw, and Roll controls.
 
 I suggest you use the NavBall to orient yourself, instead of looking at the ship.  The NavBall isn't affected by the camera rotation, so it should be easier to get your bearings through it than by looking at the outside.
 
@@ -68,7 +68,7 @@ You can try this again if you want, or press Next if you're ready to move on.
 
 Orbiting 101 - The NavBall
 
-Ok, now let's have a look at the NavBall.  You've probably seen the symbols on it when you were spinning around.
+OK, now let's have a look at the NavBall.  You've probably seen the symbols on it when you were spinning around.
 
 Here's what they mean:
 
@@ -84,9 +84,9 @@ Retrograde Waypoint Vector: It points directly away from your current Waypoint.
 
 Orbiting 101
 
-Ok!
+OK!
 
-Now, let's try something a little more involved.  OPen your map again.
+Now, let's try something a little more involved.  Open your map again.
 
 --
 
@@ -98,29 +98,29 @@ The Apoapsis is the highest point in an orbit, and it's indicated by the node ma
 
 The best place to raise your apoapsis is at the Periapsis [Pe] node, which is the lowest point of your orbit.  If you hover the mouse over Periapsis node, you'll see that we are going to reach it in a few minutes.  Once there, we will face prograde and burn.
 
-Press Period to speed up time a little, so we can get there faster.
+Press [Period] to speed up time a little, so we can get there faster.
 
 --
 
 Orbiting 101 - Time Warp
 
-Ok, time is now passing 5 times faster than normal, we should be there in a few moments.
+OK, time is now passing 5 times faster than normal, we should be there in a few moments.
 
-You can control time warp with the Period and Comma keys, or click the arrows on the panel on the top left of the screen.
+You can control time warp with the [Period] and [Comma] keys, or click the arrows on the panel on the top left of the screen.
 
 This time, I'll put us back to normal just before we reach periapsis.
 
-Out of training though, you'll have to warp time down to 1x yourself, so don't go too fast or you might miss your mark.
+Out of training, though, you'll have to warp time down to 1x yourself, so don't go too fast or you might miss your mark.
 
 --
 
 Orbiting 101 - Essential Maneuvers
 
-Ok, we are a few seconds away from Periapsis now.  Time to turn prograde and do our burn.
+OK, we are a few seconds away from Periapsis now.  Time to turn prograde and do our burn.
 
-HOwever, instead of closing the map, let's just bring up the NavBall here, so we can see what's happening to our orbit as we accelerate.
+However, instead of closing the map, let's just bring up the NavBall here, so we can see what's happening to our orbit as we accelerate.
 
-To bring up the NavBall on the Map, click the little tab on the bottom-center of the screen, or press the Numpad Period key.
+To bring up the NavBall on the Map, click the little tab on the bottom-center of the screen, or press the numpad [Period] key.
 
 --
 
@@ -138,7 +138,7 @@ Make sure the ship is pointing towards it before accelerating.
 
 Orbiting 101 - Essential Maneuvers
 
-Ok, we are now turned prograde.  I've engaged SAS for you to keep her steady.  Press the Z key to accelerate at full throttle...
+OK, we are now turned prograde.  I've engaged SAS for you to keep her steady.  Press the [Z] key to accelerate at full throttle.
 
 --
 
@@ -146,25 +146,25 @@ Orbiting 101 - Essential Maneuvers
 
 Notice how the opposite side of your orbit starts to rise as you accelerate.
 
-Keep thrusting prograde until your apoapsis altitude reaches about 8000,000m.
+Keep thrusting prograde until your apoapsis altitude reaches about 800,000m.
 
 --
 
 Orbiting 101 - Essential Maneuvers
 
-Ok, cut the throttle now!
+OK, cut the throttle now!
 
-Hold LeftControl or hit X to cut throttle immediately.
+Hold [LeftControl] or hit [X] to cut throttle immediately.
 
 --
 
 Orbiting 101 - Essential Maneuvers
 
-Well Done!
+Well done!
 
 This is how you raise your Apoapsis node.
 
-With orbital maneuvers, pretty much everything you do will affect the opposite side of your orbit.  So to raise the highest point (Apoapsis), you thrust forward (or prograde) at the lowest point (Periapsis).  Similarly, to raise your Periapsis, you thrust prograde at Apoapsis.  We're o our way to the Apoapsis now, so let's do just that.
+With orbital maneuvers, pretty much everything you do will affect the opposite side of your orbit.  So to raise the highest point (Apoapsis), you thrust forward (or prograde) at the lowest point (Periapsis).  Similarly, to raise your Periapsis, you thrust prograde at Apoapsis.  We're on our way to the Apoapsis now, so let's do just that.
 
 Press Next when ready, and I'll warp time to get us there quickly.
 
@@ -172,9 +172,9 @@ Press Next when ready, and I'll warp time to get us there quickly.
 
 Orbiting 101 - Essential Maneuvers
 
-Ok, we're on our way to the Apoapsis node now.  Notice how your ship loses speed as we rise.  That's because we're climbing away from the planet, so we lose speed as we go higher, just as you would if you were climbing a hill back here on Kerbin.
+OK, we're on our way to the Apoapsis node now.  Notice how your ship loses speed as we rise.  That's because we're climbing away from the planet, so we lose speed as we go higher, just as you would if you were climbing a hill back here on Kerbin.
 
-The higher you are, the slower your orbit will be.  NOtice how the Mun's orbital speed is around 540m/s, while yours is far higher.
+The higher you are, the slower your orbit will be.  Notice how the Mun's orbital speed is around 540m/s, while yours is far higher.
 
 When we reach Apoapsis, we will burn prograde again, to raise the Periapsis node and circularize our orbit.
 
@@ -182,7 +182,7 @@ When we reach Apoapsis, we will burn prograde again, to raise the Periapsis node
 
 Orbiting 101 - Raise Periapsis
 
-Ok, Here we are...Same as before, turn prograde and fire up those engines, and watch the Periapsis rise.
+OK, Here we are...same as before, turn prograde and fire up those engines, and watch the Periapsis rise.
 
 Mind that we are probably turned the other way right now, so the Prograde Vector might not be visible.
 
@@ -200,7 +200,7 @@ Orbiting 101 - Raise Periapsis
 
 Nicely done!
 
-This is how you change the size of your orbit.  This maneuver should come in handy on many situations.
+This is how you change the size of your orbit.  This maneuver should come in handy in many situations.
 
 Next, we'll look into changing your orbital inclination.
 
@@ -210,7 +210,7 @@ Press Next when ready to proceed.
 
 Orbiting 101 - Raise Periapsis
 
-Your orbital inclination is the angle your orbit makes to Kerbin's Equator.  If you've managed to maintain a reasonable amount of control this far, we should still be in a nearly 0º inclination orbit.  That is, even though we've changed the attitude of our orbit, it still has the same inclination as before.
+Your orbital inclination is the angle your orbit makes to Kerbin's Equator.  If you've managed to maintain a reasonable amount of control this far, we should still be in a nearly 0º inclination orbit.  That is, even though we've changed the altitude of our orbit, it still has the same inclination as before.
 
 Changing inclination is done by thrusting in 90º angles to your prograde vector, but without changing your pitch relative to the surface.
 
@@ -220,11 +220,11 @@ On our present, nearly equatorial orbit, prograde is due east.  That means to in
 
 Orbiting 101 - Normal Vectors
 
-If all that I just said made your head spin, the NavBall once again comes to your rescue, to change your orbital inclination you can use the Normal Vectors:
+If everything I just said made your head spin, the NavBall once again comes to your rescue.  To change your orbital inclination you can use the Normal Vectors:
 
-Normal Vector: It is perpendicular to the Orbital Plane, it point in the positive, or "upwards" direction.
+Normal Vector: It is perpendicular to the Orbital Plane.  It points in the positive, or "upwards" direction.
 
-Anti Normal Vector: It is perpendicular to the Orbital Plane, it point is the negative, or "downwards" direction.
+Anti Normal Vector: It is perpendicular to the Orbital Plane.  It points in the negative, or "downwards" direction.
 
 In this case you will need to use the Normal Vector.
 
@@ -234,11 +234,11 @@ Let's try that now: Turn the ship to the Normal Vector's direction and open the 
 
 Orbiting 101 - Inclination
 
-Notice how as you burn North, your orbit starts to tilt up, but the Periapsis and Apoapsis nodes remain mostly the same.
+Notice how as you burn north, your orbit starts to tilt up, but the Periapsis and Apoapsis nodes remain mostly the same.
 
-That is because we are accelerating on a completely new direction, so this maneuver doesn't add or take away any energy from the orbit.
+That is because we are accelerating in a completely new direction, so this maneuver doesn't add or take away any energy from the orbit.
 
-Keep accelerating North until your inclination is about 10º.
+Keep accelerating north until your inclination is about 10º.
 
 --
 
@@ -248,7 +248,7 @@ Good!  This is how you change your orbital inclination.
 
 For these maneuvers, it's always better to do it in the slowest parts of the orbit, so you don't have to spend as much delta-V to turn your orbit around.  That also means inclination changes on larger orbits, such as we are on now, take less fuel than the same inclination change on a lower one.
 
-Also, keep in mind that changing inclination doesn't necessarily mean accelerating to the north or south.  It means accelerating on 90º headings to your prograde vector, which on our nearly equatorial orbit, also happened to be towards the north.
+Also, keep in mind that changing inclination doesn't necessarily mean accelerating to the north or south.  It means accelerating on 90º headings to your prograde vector - which, on our nearly equatorial orbit, also happened to be towards the north.
 
 Next, let's look into the last essential maneuver you'll need to learn: Lowering our orbit.
 
@@ -272,7 +272,7 @@ Orbiting 101 - Lower Periapsis
 
 Keep burning retrograde until the Periapsis altitude is around 30,000m.
 
-Try getting it as close as possible this time.  If you overshoot and get it too low, turn prograde and accelerate again.  For precision remember that you can modulate your throttle using using the LeftControl and LeftShift keys.
+Try getting it as close as possible this time.  If you overshoot and get it too low, turn prograde and accelerate again.  For precision, remember that you can modulate your throttle using using the [LeftControl] and [LeftShift] keys.
 
 --
 
