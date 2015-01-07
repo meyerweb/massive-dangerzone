@@ -4,7 +4,7 @@ This tutorial, presented by famous rocket scientist Wernher von Kerman himself, 
 
 Vessel Construction
 
-Welcome to today's lecture on vessel construction.  I'm Wernher von Kerman.  Whether you want to put a satellite into orbit, fly a transcontinental flight or step onto the very surface of the Mun you're going to need to build yourself a ship.
+Welcome to today's lecture on vessel construction.  I'm Wernher von Kerman.  Whether you want to put a satellite into orbit, fly a transcontinental flight, or step onto the very surface of the Mun, you're going to need to build yourself a ship.
 
 It should be pretty easy even if you're not a famous rocket scientist like myself.
 
@@ -12,11 +12,11 @@ It should be pretty easy even if you're not a famous rocket scientist like mysel
 
 Select a command module
 
-First part required in any vessel construction is a command module.
+The first part required in any vessel construction is a command module.
 
 This part will either contain a plucky Kerbal crew or an automated pilot mechanism.
 
-Select a command module from the parts list, well, there's not much to choose from, but go ahead and add that command module.
+Select a command module from the parts list...well, there's not much to choose from, but go ahead and add that command module.
 
 --
 
@@ -30,15 +30,15 @@ It's not what a famous Kerbal rocket scientist like me would have chosen, but yo
 
 Well done!
 
-If you ever need to move the vessel around the screen you can pick it up by clicking the command pod.
+If you ever need to move the vessel around the screen, you can pick it up by clicking the command pod.
 
-This will allow you to fit more parts beneath the vessel.  Also, if you ever need more information on a specific part, just hover the mouse cursor above it, right clicking it will give you even more information
+This will allow you to fit more parts beneath the vessel.  Also, if you ever need more information on a specific part, just hover the mouse cursor above it.  Right clicking it will give you even more information.
 
 --
 
 Add a fuel tank
 
-Next thing we need is some fuel to burn.  Select one...well, the only one fuel tank on the left...you really need to start researching, you're missing out on all the cool parts.
+Next thing we need is some fuel to burn.  Select one of...well, the only fuel tank on the left.  You really need to start researching; you're missing out on all the cool parts.
 
 Anyway, click the fuel tank once to select it.  Then, to attach it to the bottom of your ship, click again on the green node under the command pod.
 
@@ -52,9 +52,9 @@ Not too bad.  You might just be getting the hang of this!
 
 Rockets!
 
-Now lets add a rocket to the ship!  This creates a jet of high energy gas which pushes the vessel along.
+Now let's add a rocket to the ship!  This creates a jet of high energy gas which pushes the vessel along.
 
-Select the one you have available from the left and add it underneath the fuel tank.
+Select the one engine you have available on the left and add it underneath the fuel tank.
 
 --
 
@@ -66,13 +66,13 @@ Looking good.  You remind me of a younger, less experienced, considerably less f
 
 Stages
 
-You may have noticed a new icon appeared on the lower right when you added that rocket, that is called a Stage.  Parts that have actions will appear there, you can add new stages to control the order in which these will be triggered.  These actions can also be triggered manually at any time using the right click menu for each part.
+You may have noticed a new icon appeared on the lower right when you added that rocket.  That is called a Stage—parts that have actions will appear there.  You can add new stages to control the order in which these will be triggered.  These actions can also be triggered manually at any time using the right click menu for each part.
 
 --
 
 Radial attachments
 
-Some parts are designed to be attached to the surfaces of others, radially.  These allow you to build intricate radial structures and attach even more rockets.  The particular part we have here is a Decoupler, what this kind of parts do is cause a tiny explosion that separates the parts in the stage direcly below them from the full ship.  This is specially helpful to get rid of depleted fuel tanks.
+Some parts are designed to be attached to the surfaces of others, radially.  These allow you to build intricate radial structures and attach even more rockets.  The particular part we have here is a Decoupler.  What this kind of part does is cause a tiny explosion that separates the parts in the stage directly below them from the full ship.  This is especially helpful to get rid of depleted fuel tanks.
 
 --
 
@@ -80,21 +80,21 @@ Radial attachments
 
 Now attach some of these decouplers to the vessel.
 
-You can use the two large buttons in the bottom-left of the screen to control how the editor duplicates and snaps surface mounted parts.  After you set some also add some solid rocket boosters on top of them, you find these in the Propulsion tab.  See the effect this configuration has on your ship's Stages and remember, your ship could always use more boosters!
+You can use the two large buttons in the bottom-left of the screen to control how the editor duplicates and snaps surface mounted parts.  After you set some decouplers, add some solid rocket boosters on top of them.  You find these in the Engines tab.  See the effect this configuration has on your ship's Stages and remember, your ship could always use more boosters!
 
 --
 
 Vehicle dynamics
 
-Your ship looks...interesting.  If you want to modify the order in which parts are activated during flight you can click and drag whichever you want to move in the Staging UI and move it to a different stage.
+Your ship looks...interesting.  If you want to modify the order in which parts are activated during flight, you can click and drag whichever part you want to move in the Staging UI and move it to a different stage.
 
-If you want to see the centers of it's mass, lift, or thrust, you can use the three small buttons on the lower left.  The basic rule of thumb is that you will want to keep the centers of mass and thrust centered within the full ship.  You won't use the center of lift much, unless you're building a plane.
+If you want to see the centers of its mass, lift, or thrust, you can use the three small buttons on the lower left.  The basic rule of thumb is that you want to keep the centers of mass and thrust centered within the full ship.  You won't use the center of lift much, unless you're building a plane.
 
 --
 
 Saving your ship
 
-I should probably bring to your attention that if you just started your space career you don't have any decouplers available in career mode, but I took the opportunity to showcase one of my great discoveries.  Last but not least, make sure you assign a name to your vessel by selecting the name box and then save it.
+I should probably bring to your attention that if you just started your space career, you don't have any decouplers available in Career Mode, but I took the opportunity to showcase one of my great discoveries.  Last but not least, make sure you assign a name to your vessel by selecting the name box, and then save it.
 
 --
 
@@ -102,6 +102,6 @@ Ready to rock!
 
 Looks like our time is almost up.  I have to go give yet another science briefing to the world's media.
 
-I've been pointing out that you have very little parts and you should start researching to get more of them, if you don't know how to do this come join me on the Science Tutorial.
+I've been pointing out that you have very little parts and you should start researching to get more of them.  If you don't know how to do this, come join me in the Science Tutorial.
 
  Please show yourself out of the construction facility with the red button on the top right when you're done experimenting.  Auf wiedersehen!
