@@ -58,7 +58,7 @@ We're getting close to maneuver time!  There is one final step to take before ex
 
 I'll give you an expert tip: start your burn when the time-to-maneuver-node indicator is half the time the maneuver takes.  For example, if your approximated burn is 20 seconds, start burning 10 seconds before you get there.  This is not mandatory, but it's more efficient.  I'll leave it at your discretion, but since this is quite a long burn, I suggest you start ASAP.
 
-(Open your Map View to view progress)
+(Open your Map View to view progress.)
 
 --
 
