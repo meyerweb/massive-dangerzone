@@ -1,0 +1,6 @@
+The Asteroid Redirect Mission, created with the collaboration of NASA, features asteroids orbiting close to Kerbin, as well as new tools that allow you to actually capture one, redirect its orbit, and perform new science research on it.
+
+On this scenario, the Retriever A2 spacecraft is only a few meters away from the asteroid, ready to deploy its grappling device and attach itself. Can you maneuver it into a closed orbit around Kerbin's Mun?
+
+==
+

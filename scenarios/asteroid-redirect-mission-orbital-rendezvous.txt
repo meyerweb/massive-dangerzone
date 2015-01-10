@@ -1,0 +1,6 @@
+The Asteroid Redirect Mission, created with the collaboration of NASA, features asteroids orbiting close to Kerbin, as well as new tools that allow you to actually capture one, redirect its orbit, and perform new science research on it.
+
+On this scenario the Retriever A1 spacecraft is on a course to rendezvous with an orbiting asteroid. You're tasked with performing the rendezvous burn, then catch up to the asteroid as you approach the intersection of both orbits.
+
+==
+
