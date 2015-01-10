@@ -1,22 +1,22 @@
-This...er, should actually be called "From the Mun", here we will review how to bring our brave Kerbal crew back home, once they managed to safely land on the Mun.
+This...er, should actually be called "From the Mun".  Here we will review how to bring our brave Kerbal crew back home after they managed to safely land on the Mun.
 
 ==
 
 To The Mun: Part 2
 
-Welcome to the Mun!  I trust you managed to land you ship alright, but here we are now.  I'd like you to examine the ship very carefully, it's a barebones design of a lander, it contains all you will need to land and get back to Kerbin.  Okay, now let's get your crew back home!
+Welcome to the Mun!  I trust you managed to land you ship all right, but here we are now.  I'd like you to examine the ship very carefully.  It's a barebones design of a lander, and contains all you will need to land and get back to Kerbin.  Okay, now let's get your crew back home!
 
 --
 
-Moonwalking
+Munwalking
 
-Before we do that though let's seize this opportunity to do a little moonwalking.  Hover your mouse over the picture of your Kerbal and click the EVA button.  In this case the ladder is already deployed, but always make sure it is before stepping out or you could be unable to get back in the ship.
+Before we do that, though, let's seize this opportunity to do a little Munwalking.  Hover your mouse over the picture of your Kerbal and click the EVA button.  In this case the ladder is already deployed, but always make sure it is before stepping out or you could find yourself unable to get back in the ship.
 
 --
 
-Moonwalking
+Munwalking
 
-Exactly!  Climb down that ladder using the S key.  Look at you, walking on the Mun.  There are a number of things you can do while EVA'ing, first of all, you can walk around with W, A, S, and D, and if you hold down Shift with these same directions you can run.  You can press R to toggle the Jetpack control and spacebar to jump.  If you right click the Kerbal there are a few other things you can do, I'll leave it to you to find out, when you've had enough and want to go home get back on the ship.
+Exactly!  Climb down that ladder using the [S] key.  Look at you, walking on the Mun.  There are a number of things you can do while EVA'ing.  First of all, you can walk around with [W], [A], [S], and [D], and if you hold down [Shift] with these same directions, you can run.  You can press [R] to toggle the Jetpack control and [Spacebar] to jump.  If you right click the Kerbal, there are a few other things you can do. I'll leave it to you to find out; when you've had enough and want to go home, get back on the ship.
 
 --
 
@@ -28,25 +28,22 @@ Off we go then.  Getting back to Kerbin works very much the same way as getting 
 
 Trip Back
 
-What you have to do now is throttle all the way up and orient your ship towards Kerbin, in this particular case it's around heading 270 degrees.  Once you're properly oriented, open your map view and keep burning until your orbit is on a course that will put you inside Kerbin's SOI, it will be indicated by a theoretical orbit in you map.  As soon as it happens hit X to cut throttle and not waste any fuel.
+What you have to do now is throttle all the way up and orient your ship towards Kerbin  In this particular case, it's around heading 270 degrees.  Once you're properly oriented, open your map view and keep burning until your orbit is on a course that will put you inside Kerbin's Sphere of Influence (SOI).  It will be indicated by a theoretical orbit on your map.  As soon as it happens, hit [X] to cut throttle and not waste any fuel.
 
 --
 
 Orbiting Kerbin
 
-That's right, your current trajectory will put you under Kerbin's Sphere of Influence, from there, you should already know what to do, but for now let's just wait until we're orbiting Kerbin.  You may use time warp at your discretion.
+That's right, your current trajectory will put you under Kerbin's Sphere of Influence.  From there, you should already know what to do, but for now let's just wait until we're orbiting Kerbin.  You may use time warp at your discretion.
 
 --
 
 Orbiting Kerbin
 
-Okay, now you're gravitationally bound to Kerbin, from here it's child's play to get back home, so let's make it interesting, first put yourself in a circular orbit of less than 300 km radius, remember what you're learned in previous lessons.  You are encouraged to use maneuver nodes, but it's not a requirement.  In you get another Mun encounter ignore it.  Also remember to go easy on the timewarp, you miss your targets if you overdo it.
+Okay, now you're gravitationally bound to Kerbin.  From here, it's child's play to get back home, so let's make it interesting.  First, put yourself in a circular orbit of less than 300 km radius - remember what you're learned in previous lessons.  You are encouraged to use maneuver nodes, but it's not a requirement.  If you get another Mun encounter, ignore it.  Also remember to go easy on the time warp; you can miss your targets if you overdo it.
 
 --
 
 Reentry
 
-Good, in this orbit you can even get picky and choose where you want to land, I'll let you choose the landing location, but I'll give you extra points if you manage to land back at the Kerbal Space Center, I hope you took note of where it is.
-
---
-
+Good, in this orbit you can even get picky and choose where you want to land.  I'll let you choose the landing location, but I'll give you extra points if you manage to land back at the Kerbal Space Center.  I hope you took note of where it is.
