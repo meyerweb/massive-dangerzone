@@ -1,0 +1,64 @@
+In this part we will look at how to actually catch an asteroid and decide what to do with it.
+
+==
+
+Asteroid Redirect Mission, Part 2
+
+Well pilot, you caught up to it but don't pat yourself on the back yet, you're not even close to done.  How about we catch this rock?  Right click on the white dome at the top of your ship and arm your grapple.
+
+--
+
+The Grappling Device
+
+This modern marvel of technology will grab onto anything that it touches.  The boys at the lab had an intern hanging from there for a whole day.  Thing didn't even budge.
+The equipment has limits obviously, so don't expect to catch any asteroids by ramming it into them at full speed.  Think stepping on a soda can but one worth a lot of taxpayer money.
+
+--
+
+The Grappling Device
+
+And that's why we're going to handle it with care.  Now, with your grapple armed, target the asteroid and slowly and carefully use your RCS thrusters to move towards the asteroid.  Keep it straight and once you're close enough, the mechanism will activate on its own and grad this load of valuable and amazing minerals for us.
+Be patient, this will take some time, but if you rush it and miss you will make matters worse.
+
+--
+
+Efficiency
+
+There you go, now we're grabbed onto the asteroid.  You can pretty much call it yours now, but to make it really yours you should rename it.  Right click it and choose Rename Asteroid to do so.
+There's something important when it comes to moving asteroids; efficiency.  If you think the way you're grabbing the asteroid doesn't matter, I'd ask you to get up, grab a bag of groceries and carry it around with your arm fully outstretched at a 90 degree angle from your body, then do the same carrying it as you normally would and tell me if they were both the same.
+
+--
+
+Pivot and Alignment
+
+Your grapple and the thrust of the ship are bound to the same principles, that's why we have a pivot to modify the connection angle and to make aligning to your centre of mass a complete breeze.
+Right click on the grapple and unlock the pivot.  The grapple itself will remain connected but you will be able to independently move your ship and realign it.  Go ahead and adjust yourself until you have a better alignment, then lock the pivot again.
+
+--
+
+Redirect start
+
+Now you're all set to start redirecting your asteroid, whether you want to use it to study material, make it a mass destruction weapon or create a rocky space station like some pesky mutant; you're going to have to move Ast. UFH-220.
+
+--
+
+Rendezvous - Approach
+
+While you could start setting up maneuver nodes and burning in order to move that heavy load of yours right now, it would come at a great fuel cost, so it's better to plan a better approach.
+Open your map, set Kerbin as your target, and find the point where Kerbin's orbit is closest to yours, then set up a maneuver node OPPOSITE to that.
+
+--
+
+Rendezvous - Almost there!
+
+Now try creating a course that will get you back under Kerbin's SOI, sounds simple enough but watch out for two things.
+First of all, you're carrying a LOT of mass, so before calling it done see if the maneuver is doable in real life.  Rule of thumb is, if you're getting more than a 10 minutes estimated burn time you will probably run out of fuel before completing it.
+Secondly, if it seems like it's impossible getting a return course, right click the maneuver node, along with the close button two more buttons will appear, these are plus or minus one full orbit, so if you don't get it in this lap maybe you will in the next one, or in 100 years, what different does it make?
+
+--
+
+Rendezvous - Practice
+
+That flight plan looks okay, but it seems like you will have to wait for a loooooong time, so I'll leave you to it.
+My last advice about this is to use all of your piloting skills when actually executing the burn, sometimes it's hard to keep your ship steady when it weights tens of tons.  And also, patience, I know this is a long mission, but you must endure, or use time warp, whatever suits you best.
+That's all for my part, see you on Kerbin.
