@@ -1,4 +1,4 @@
-Space Station 1 is a small refueling outpost at low Kerbin orbit, where ships can stop to fill up before leaving on interplanetary missions.
+Space Station 1 is a small refueling outpost in low Kerbin orbit where ships can stop to fill up before leaving on interplanetary missions.
 
 ==
 
