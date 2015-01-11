@@ -22,7 +22,7 @@ Exactly!  Climb down that ladder using the [S] key.  Look at you, walking on the
 
 Trip Back
 
-Off we go then.  Getting back to Kerbin works very much the same way as getting from Kerbin to the Mun, but it's actually a lot easier because gravity on the Mun is lower, and also there is no atmosphere.
+Off we go, then.  Getting back to Kerbin works very much the same way as getting from Kerbin to the Mun, but it's actually a lot easier because gravity on the Mun is lower, and also there is no atmosphere.
 
 --
 
@@ -40,7 +40,7 @@ That's right, your current trajectory will put you under Kerbin's Sphere of Infl
 
 Orbiting Kerbin
 
-Okay, now you're gravitationally bound to Kerbin.  From here, it's child's play to get back home, so let's make it interesting.  First, put yourself in a circular orbit of less than 300 km radius - remember what you're learned in previous lessons.  You are encouraged to use maneuver nodes, but it's not a requirement.  If you get another Mun encounter, ignore it.  Also remember to go easy on the time warp; you can miss your targets if you overdo it.
+Okay, now you're gravitationally bound to Kerbin.  From here, it's child's play to get back home, so let's make it interesting.  First, put yourself in a circular orbit of less than 300km radius - remember what you're learned in previous lessons.  You are encouraged to use maneuver nodes, but it's not a requirement.  If you get another Mun encounter, ignore it.  Also remember to go easy on the time warp; you can miss your targets if you overdo it.
 
 --
 

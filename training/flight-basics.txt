@@ -160,7 +160,7 @@ Actually they're none too bright, for that matter, so don't rely on them to be a
 
 Ready to Launch
 
-OK, enough talk.  I'll unlock all the flight controls and you'll be clear to launch.  Actually, all the controls except for one.  To make it interesting, you will not be able to use the SAS control - try to keep the ship steady yourself.
+Okay, enough talk.  I'll unlock all the flight controls and you'll be clear to launch.  Actually, all the controls except for one.  To make it interesting, you will not be able to use the SAS control - try to keep the ship steady yourself.
 
 At any time you may press [Esc] to pause the game.  In the Pause Menu you can restart the flight, or end this Tutorial and return to the Main Menu.
 

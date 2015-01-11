@@ -44,7 +44,7 @@ Are you ready?
 
 Orbiting 101 - Attitude and SAS
 
-OK, here we go...
+Okay, here we go...
 
 --
 
@@ -68,7 +68,7 @@ You can try this again if you want, or press Next if you're ready to move on.
 
 Orbiting 101 - The NavBall
 
-OK, now let's have a look at the NavBall.  You've probably seen the symbols on it when you were spinning around.
+Okay, now let's have a look at the NavBall.  You've probably seen the symbols on it when you were spinning around.
 
 Here's what they mean:
 
@@ -84,7 +84,7 @@ Retrograde Waypoint Vector: It points directly away from your current Waypoint.
 
 Orbiting 101
 
-OK!
+Okay!
 
 Now, let's try something a little more involved.  Open your map again.
 
@@ -104,7 +104,7 @@ Press [Period] to speed up time a little, so we can get there faster.
 
 Orbiting 101 - Time Warp
 
-OK, time is now passing 5 times faster than normal, we should be there in a few moments.
+Okay, time is now passing 5 times faster than normal, we should be there in a few moments.
 
 You can control time warp with the [Period] and [Comma] keys, or click the arrows on the panel on the top left of the screen.
 
@@ -116,7 +116,7 @@ Out of training, though, you'll have to warp time down to 1x yourself, so don't 
 
 Orbiting 101 - Essential Maneuvers
 
-OK, we are a few seconds away from Periapsis now.  Time to turn prograde and do our burn.
+Okay, we are a few seconds away from Periapsis now.  Time to turn prograde and do our burn.
 
 However, instead of closing the map, let's just bring up the NavBall here, so we can see what's happening to our orbit as we accelerate.
 
@@ -138,7 +138,7 @@ Make sure the ship is pointing towards it before accelerating.
 
 Orbiting 101 - Essential Maneuvers
 
-OK, we are now turned prograde.  I've engaged SAS for you to keep her steady.  Press the [Z] key to accelerate at full throttle.
+Okay, we are now turned prograde.  I've engaged SAS for you to keep her steady.  Press the [Z] key to accelerate at full throttle.
 
 --
 
@@ -152,7 +152,7 @@ Keep thrusting prograde until your apoapsis altitude reaches about 800,000m.
 
 Orbiting 101 - Essential Maneuvers
 
-OK, cut the throttle now!
+Okay, cut the throttle now!
 
 Hold [LeftControl] or hit [X] to cut throttle immediately.
 
@@ -172,7 +172,7 @@ Press Next when ready, and I'll warp time to get us there quickly.
 
 Orbiting 101 - Essential Maneuvers
 
-OK, we're on our way to the Apoapsis node now.  Notice how your ship loses speed as we rise.  That's because we're climbing away from the planet, so we lose speed as we go higher, just as you would if you were climbing a hill back here on Kerbin.
+Okay, we're on our way to the Apoapsis node now.  Notice how your ship loses speed as we rise.  That's because we're climbing away from the planet, so we lose speed as we go higher, just as you would if you were climbing a hill back here on Kerbin.
 
 The higher you are, the slower your orbit will be.  Notice how the Mun's orbital speed is around 540m/s, while yours is far higher.
 
@@ -182,7 +182,7 @@ When we reach Apoapsis, we will burn prograde again, to raise the Periapsis node
 
 Orbiting 101 - Raise Periapsis
 
-OK, Here we are...same as before, turn prograde and fire up those engines, and watch the Periapsis rise.
+Okay, Here we are...same as before, turn prograde and fire up those engines, and watch the Periapsis rise.
 
 Mind that we are probably turned the other way right now, so the Prograde Vector might not be visible.
 
