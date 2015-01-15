@@ -1,4 +1,4 @@
-This is the beginning of a guided mission that will walk you through the process of catching an asteroid, in this part we will rendezvous with an orbiting asteroid.
+This is the beginning of a guided mission that will walk you through the process of catching an asteroid.  In this part, we will rendezvous with an orbiting asteroid.
 
 ==
 
@@ -16,20 +16,21 @@ For that, we're going to walk through a process called rendezvous.  Really, real
 
 Asteroids
 
-Now, through luck or Dev-ine intervention this particular asteroid here has been captured in an eccentric but stable Kerbin orbit.  This is about as lucky as one can get with these bodies, because in reality most of them will just zoom past Kerbin or take a single trip around it before leaving to never return.
-When choosing you own I recommend you see what there is to choose from in the Tracking Station and track one of your liking, if you don't track it you'll never catch it.
+Now, through luck or Dev-ine intervention, this particular asteroid here has been captured in an eccentric but stable Kerbin orbit.  This is about as lucky as one can get with these bodies, because in reality most of them will just zoom past Kerbin or take a single trip around it before leaving to never return.
+
+When choosing your own, I recommend you see what there is to choose from in the Tracking Station, and track one of your liking.  If you don't track it, you'll never catch it.
 
 --
 
 Rendezvous - Theory
 
-First things first, basic orbital mechanics.  If you math your orbit to an object's precisely, you'll be moving at the same speed as it is.  If you're close to the body you're orbiting, in this case Kerbin, then the object you are trying to meet, you will be going fast, and slower if you're further out.
+First things first: basic orbital mechanics.  If you match your orbit to an object's precisely, you'll be moving at the same speed as it is.  If you're closer to the body you're orbiting - in this case, Kerbin - than the object you are trying to meet, you will be going faster, and slower if you're further out.
 
 --
 
 Rendezvous - Practice
 
-Knowing this, let's get started, I took the liberty of creating a maneuver node on your orbit and adjusting it for you to have an orbit that gets as close as possible to the asteroid.  Actually I'm sure if you fint-tune it thoroughly you can get even closer.  I recommend using your mousewheel to scroll when the mouse is over the node modifiers instead of dragging them, to have better control.  You can check how close your encounter will be if you mouse over the same color intercept nodes that are close to each other.
+Knowing this, let's get started.  I took the liberty of creating a maneuver node on your orbit and adjusting it for you to have an orbit that gets as close as possible to the asteroid.  Actually, I'm sure if you fine-tune it thoroughly you can get even closer.  I recommend using your mousewheel to scroll when the mouse is over the node modifiers instead of dragging them, to have better control.  You can check how close your encounter will be if you mouse over the same color intercept nodes that are close to each other.
 
 This is what the intersect icons look like.
 
@@ -37,30 +38,31 @@ This is what the intersect icons look like.
 
 Rendezvous - Precision
 
-When you're happy with your maneuver execute the burn.  One final word of warning though, when executing these kind of precision maneuvers try to leave as little deltaV remaining as possible, or the end result could vary greatly from what you had planned.  I won't let you go any further if you don't do it close enough.
+When you're happy with your maneuver, execute the burn.  One final word of warning though: when executing these kind of precision maneuvers, try to leave as little delta-V remaining as possible, or the end result could vary greatly from what you had planned.  I won't let you go any further if you don't get close enough.
 
 --
 
 Rendezvous - Fine Tune
 
-Good job.  You're now on a similar but lower orbit to the Asteroid.  Keep it targeted and experiment with your maneuver nodes until you have a closest encounter of less than 10 kilometers, then execute the burn and wait til you reach that encounter.  This step is actually optional, just keep in mind that the closer your orbit takes you, the less fuel you'll have to use.
-Anyway, when you're done click next.
+Good job.  You're now on a similar but lower orbit to the asteroid.  Keep it targeted and experiment with your maneuver nodes until you have a closest encounter of less than 10 kilometers, then execute the burn and wait til you reach that encounter.  This step is actually optional; just keep in mind that the closer your orbit takes you, the less fuel you'll have to use.
+
+Anyway, when you're done click Next.
 
 --
 
 Rendezvous - Approach
 
-And this is where speed and efficiency is key.  Wait until you're about 5 minutes away from your encounter nodes.  Right click the velocity meter in your NavBall so it shows your relative velocity to your Target.  You're roughly moving at the same speed, but the different will make one of you drift apart.  Aim retrograde in this set up and use your boosters or RCS thrusters to lower that velocity to 0.0 m/s.  That means that relative to the asteroid, you are no longer moving.  If you get out of the map screen you should even have a visual on the target not too far.
+And this is where speed and efficiency is key.  Wait until you're about 5 minutes away from your encounter nodes.  Right click the velocity meter in your NavBall so it shows your relative velocity to your Target.  You're roughly moving at the same speed, but the difference will make you drift apart.  Aim retrograde in this set up and use your boosters or RCS thrusters to lower that velocity to 0.0 m/s.  That means that relative to the asteroid, you are no longer moving.  If you get out of the map screen, you should even have a visual on the target if it's not too far away.
 
 --
 
 Rendezvous - Almost there!
 
-Ok, so now you are "not moving" and you're so close to the asteroid you can almost touch it.  What you have to do now is aim yourself towards the asteroid, it's the pink round icon in your NavBall, burn a little to get closer and turn yourself retrograde to kill your speed again, take baby steps trying to get a bit closer every time.
-For small adjustments you can also use RCS translation burns (H ,N ,K ,I ,L and J keys) to tweak your approach.
+Okay, so now you are "not moving" and you're so close to the asteroid you can almost touch it.  What you have to do now is aim yourself towards the asteroid; it's the pink round icon in your NavBall.  Burn a little to get closer and turn yourself retrograde to kill your speed again.  Just take baby steps trying to get a bit closer every time.
+For small adjustments you can also use RCS translation burns (H, N, K, I, L, and J keys) to tweak your approach.
 
 --
 
 Rendezvous - Complete
 
-And here we are, now all that's left is to grab that rock, but we'll leave it for next time, your head is probably about to explode with new information, so for now just suffice it to say you have achieved quite a feat, good bye for now.
+And here we are!  Now all that's left is to grab that rock, but we'll leave it for next time.  Your head is probably about to explode with new information, so for now just suffice it to say you have achieved quite a feat.  Goodbye for now.
